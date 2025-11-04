@@ -34,7 +34,7 @@
   "homepage": "https://github.com/localstack/serverless-localstack",
   "dependencies": {
     "adm-zip": "^0.5.10",
-    "aws-sdk": "^2.402.0",
+    "aws-sdk": "^2.1692.0",
     "es6-promisify": "^6.0.1"
   },
   "devDependencies": {
